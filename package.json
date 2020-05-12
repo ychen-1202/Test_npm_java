@@ -1,0 +1,15 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "This is API for contract interaction in node application",
+  "main": "EXXAccounts_api.js",
+  "dependencies": {
+    "java": "0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yun Chen",
+  "license": "ISC"
+}
